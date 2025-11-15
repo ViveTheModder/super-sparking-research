@@ -7,7 +7,7 @@ SUPER SPARKING is a Sparking! METEOR mod put together by [Furuya](https://www.yo
 Sparking! METEOR was used as a base because [dbz3_sc](https://github.com/HiroTex/dbz3_sc/blob/main/ghidra/slps_258.15.gzf), the current decompilation of Budokai Tenkaichi 3, is **solely based on the Sparking! METEOR ELF** (``slps_258.15``). Its contributor, [Vras](https://github.com/Vrass28), is also responsible for the code-related changes made to SUPER SPARKING. Transferring the changes over to the NTSC-U or PAL version of BT3 would take way longer, so **NTSC-J was chosen out of convenience**.
 
 # AFS Information
-The ISO comes with two new AFS files: ``PZS3JP3.AFS`` and ``PZS3JP4.AFS``.
+The ISO comes with two new AFS files: ``PZS3JP3.AFS`` (which stores character assets, mostly costumes) and ``PZS3JP4.AFS``.
 
 With a total of 5 AFS files, each AFS is locked [in an identical fashion to AFS files from BT4](https://github.com/ViveTheModder/bt4-research).
 
@@ -30,3 +30,11 @@ Same goes for the GSC files (located at position **123136000** in the ISO) and t
 <img width="1360" height="699" alt="image" src="https://github.com/user-attachments/assets/80c2c48c-f279-4a30-b86f-27d716ccb6eb" />
 
 <img width="1360" height="699" alt="image" src="https://github.com/user-attachments/assets/90136d94-4cca-453e-b433-e395dd8acf0c" />
+
+# CSV Files
+* ``bgm.csv`` -> Background Music (includes inaccessible tracks, 200 in total)
+* ``chara.csv`` -> Character List
+* ``gsc.csv`` -> Dragon History Scenario Names
+* ``maps.csv`` -> Maps (all 150 of them)
+
+These CSVs (after removing their ``id,name`` headers) can be used for [GSC Reader](https://github.com/ViveTheModder/gsc-reader). When ran on the ISO's GSC files, the results can be seen in this repo's ``log`` folder.

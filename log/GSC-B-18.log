@@ -1,0 +1,2742 @@
+GSC Origin: Budokai Tenkaichi 3
+
+===== SCENE -1 =====
+
+===== SCENE 1000 =====
+
+===== SCENE -2 =====
+
+[Load TXT PAK]
+
+[Load LPS PAK]
+
+===== SCENE -3 =====
+
+[Scenario Identifier: 1 parameter]
+* GSC Name: Batalla por el universo
+
+[Rewards: 15 parameters]
+* Z-Points (Easy): 2500
+* Z-Points (Normal): 3000
+* Z-Points (Hard): 3500
+* Z-Item #1: N/A
+* Z-Item #2: N/A
+* Z-Item #3: N/A
+* Map #1: N/A
+* Map #2: N/A
+* Map #3: N/A
+* Character #1: N/A
+* Character #2: N/A
+* Character #3: N/A
+* Scenario #1: Invalid (Value: 262149)
+* Scenario #2: Invalid (Value: 262150)
+* Scenario #3: N/A
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 0
+-> Text is Grey: 1 parameter
+* Enable Grey Text: False
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 255
+* Green: 255
+* Blue: 255
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 1
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 0
+* Green: 0
+* Blue: 0
+* Opacity: 64
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 1
+-> Text is Grey: 1 parameter
+* Enable Grey Text: False
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 255
+* Green: 255
+* Blue: 255
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 1
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 0
+* Green: 0
+* Blue: 0
+* Opacity: 64
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 2
+-> Text is Grey: 1 parameter
+* Enable Grey Text: False
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 255
+* Green: 255
+* Blue: 255
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 1
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 0
+* Green: 0
+* Blue: 0
+* Opacity: 64
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 3
+-> Text is Grey: 1 parameter
+* Enable Grey Text: False
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 255
+* Green: 255
+* Blue: 255
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 2
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 32
+* Green: 32
+* Blue: 32
+* Opacity: 128
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 0
+-> Text is Grey: 1 parameter
+* Enable Grey Text: True
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 140
+* Green: 140
+* Blue: 140
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 1
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 0
+* Green: 0
+* Blue: 0
+* Opacity: 64
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 1
+-> Text is Grey: 1 parameter
+* Enable Grey Text: True
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 140
+* Green: 140
+* Blue: 140
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 1
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 0
+* Green: 0
+* Blue: 0
+* Opacity: 64
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 2
+-> Text is Grey: 1 parameter
+* Enable Grey Text: True
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 140
+* Green: 140
+* Blue: 140
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 1
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 0
+* Green: 0
+* Blue: 0
+* Opacity: 64
+
+[Subtitle Settings]
+-> Text Region: 1 parameter
+* Region ID: 3
+-> Text is Grey: 1 parameter
+* Enable Grey Text: True
+-> Text Position: 2 parameters
+* Position (X): 256
+* Position (Y): 428
+-> Text Size: 2 parameters
+* Width: 0.85
+* Height: 0.85
+-> Text Scale: 1 parameter
+* Coefficient: 1.0
+-> Text Color: 4 parameters
+* Red: 140
+* Green: 140
+* Blue: 140
+* Opacity: 128
+-> Text Padding: 2 parameters
+* Padding (Vertical): 2
+* Padding (Horizontal): 5
+-> Text Alignment: 1 parameter
+* Alignment ID: 1
+-> Symbol: 1 parameter
+* Type: 2
+-> Text Outline Size: 2 parameters
+* Width: 2
+* Height: 2
+-> Text Outline Color: 4 parameters
+* Red: 32
+* Green: 32
+* Blue: 32
+* Opacity: 128
+
+===== SCENE -4 =====
+
+[Battle Settings: 5 parameters]
+* Map: PLANETA SAGRADO
+* Music: DBFB - Kokoyoshi Fukushu
+* Battle Time (s): 0
+* Referee: Shenron
+* Enable Map Destruction: False
+
+[Team Settings: 2 parameters]
+* Team Index: 0
+* Number of Teammates: 4
+
+[Team Settings: 2 parameters]
+* Team Index: 1
+* Number of Teammates: 1
+
+[Character Settings: 14 parameters]
+* Character Index: 0
+* Character: Son-Goku (Super)
+* Color: 1
+* Damaged: True
+* COM Level: 0
+* Z-Item #8: Goku Type
+* Health (%): 100
+* Z-Item #1: Attack -18
+* Z-Item #2: Defense -5
+* Z-Item #3: N/A
+* Z-Item #4: N/A
+* Z-Item #5: N/A
+* Z-Item #6: N/A
+* Z-Item #7: N/A
+
+[Character Settings: 14 parameters]
+* Character Index: 1
+* Character: Majin Buu
+* Color: 0
+* Damaged: True
+* COM Level: 0
+* Z-Item #8: Goku Type
+* Health (%): 100
+* Z-Item #1: Attack -15
+* Z-Item #2: Defense -10
+* Z-Item #3: N/A
+* Z-Item #4: N/A
+* Z-Item #5: N/A
+* Z-Item #6: Dragon Crush
+* Z-Item #7: Vanishing Rush
+
+[Character Settings: 14 parameters]
+* Character Index: 2
+* Character: Mr. Satan
+* Color: 0
+* Damaged: False
+* COM Level: 0
+* Z-Item #8: Goku Type
+* Health (%): 100
+* Z-Item #1: Attack -8
+* Z-Item #2: N/A
+* Z-Item #3: N/A
+* Z-Item #4: N/A
+* Z-Item #5: N/A
+* Z-Item #6: N/A
+* Z-Item #7: N/A
+
+[Character Settings: 14 parameters]
+* Character Index: 3
+* Character: Vegeta (Super)
+* Color: 1
+* Damaged: True
+* COM Level: 0
+* Z-Item #8: Goku Type
+* Health (%): 100
+* Z-Item #1: Attack -18
+* Z-Item #2: Defense -10
+* Z-Item #3: N/A
+* Z-Item #4: N/A
+* Z-Item #5: N/A
+* Z-Item #6: N/A
+* Z-Item #7: N/A
+
+[Character Settings: 14 parameters]
+* Character Index: 0 (Opp.)
+* Character: Kid Buu
+* Color: 0
+* Damaged: False
+* COM Level: 11
+* Z-Item #8: Broly Type
+* Health (%): 100
+* Z-Item #1: Ultimate Warrior 1
+* Z-Item #2: Defense +50
+* Z-Item #3: Strength Enhancement
+* Z-Item #4: N/A
+* Z-Item #5: N/A
+* Z-Item #6: Dragon Crush
+* Z-Item #7: Vanishing Rush
+
+===== SCENE -5 =====
+
+[Store Audio-Related Properties]
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 0
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 1
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 2
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 3
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 4
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 5
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 6
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 7
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 8
+* Character Index: 0 (Opp.)
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 9
+* Character Index: 1
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 10
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 16
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 18
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 19
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 20
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 21
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 22
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 23
+* Character Index: 1
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 24
+* Character Index: 1
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 25
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 26
+* Character Index: 0 (Opp.)
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 27
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 28
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 29
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 30
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 31
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 32
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 33
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 34
+* Character Index: 0 (Opp.)
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 35
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 36
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 37
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 38
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 39
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 40
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 41
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 42
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 43
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 44
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 45
+* Character Index: 0 (Opp.)
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 46
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 47
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 48
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 49
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 50
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 54
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 56
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 57
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 62
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 63
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 64
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 65
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 68
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 69
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 70
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 71
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 72
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 73
+* Character Index: 2
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 74
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 75
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 76
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 77
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 78
+* Character Index: 0 (Opp.)
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 79
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 80
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 82
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 83
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 84
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 85
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 86
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 87
+* Character Index: 0 (Opp.)
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 88
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 89
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 90
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 91
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 92
+* Character Index: 0
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 93
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 94
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 95
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 96
+* Character Index: 3
+-> Audio-Related Property: 2 parameters
+* Voice Line ID: 97
+* Character Index: 0 (Opp.)
+
+===== SCENE 10000 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 26.8
+* Position (Y): 0.0
+* Position (Z): 27.5
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -26.8
+* Position (Y): 0.0
+* Position (Z): -27.5
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: GROUND
+-> Enable ANM Loop
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: GROUND_TIRED
+-> Enable ANM Loop
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 68.248
+* Position (Y): -46.788
+* Position (Z): 115.622
+* Rotation (Y): -12.038
+* Rotation (X): -146.719
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 5.5
+* Position (X): 33.741
+* Position (Y): -19.664
+* Position (Z): 56.75
+* Rotation (Y): -17.938
+* Rotation (X): -147.0
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 0
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 19.129
+* Position (Y): -10.458
+* Position (Z): 29.33
+* Rotation (Y): 17.379
+* Rotation (X): 129.067
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 1
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 16.071
+* Position (Y): -3.916
+* Position (Z): 27.114
+* Rotation (Y): 39.409
+* Rotation (X): 90.615
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 2
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -22.671
+* Position (Y): -7.722
+* Position (Z): -20.134
+* Rotation (Y): 23.923
+* Rotation (X): -158.132
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 8.0
+* Position (X): -15.569
+* Position (Y): -0.403
+* Position (Z): -2.439
+* Rotation (Y): 16.463
+* Rotation (X): -158.598
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 3
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 34.594
+* Position (Y): -13.314
+* Position (Z): 26.314
+* Rotation (Y): -15.234
+* Rotation (X): -119.739
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 12.0
+* Position (X): 25.97
+* Position (Y): -13.314
+* Position (Z): 40.103
+* Rotation (Y): -15.234
+* Rotation (X): -146.272
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 4
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 5
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 9.506
+* Position (Y): -1.017
+* Position (Z): 29.782
+* Rotation (Y): 20.681
+* Rotation (X): 106.881
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 6
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -49.172
+* Position (Y): -6.644
+* Position (Z): -38.793
+* Rotation (Y): 0.001
+* Rotation (X): 52.071
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 4.5
+* Position (X): 18.943
+* Position (Y): -10.972
+* Position (Z): 25.179
+* Rotation (Y): 9.187
+* Rotation (X): 81.9
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 7
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Wait 50 seconds
+* Scene ID: 10001
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10035
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10044
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 11
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 12
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 13
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 16
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 17
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 18
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode (Opp.)
+* Voice Line ID: 34
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack
+* Voice Line ID: 72
+-> Audio Link: 2 parameters
+* Condition: Perform Dragon Homing (Opp.)
+* Voice Line ID: 73
+-> Audio Link: 2 parameters
+* Condition: Hit with 1st Blast 2 (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Hit with 2nd Blast 2 (Opp.)
+* Voice Line ID: 8
+
+[Store Player's Character Changes]
+-> Add Ki: 1 parameter
+* Ki (%): -90
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Battle Finish
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10001 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Wait 40 seconds
+* Scene ID: 10002
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10040
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10030
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 8
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 9
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 10
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Up Smash Attack
+* Voice Line ID: 21
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Left Smash Attack
+* Voice Line ID: 21
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Left Smash Attack (Opp.)
+* Voice Line ID: 20
+-> Audio Link: 2 parameters
+* Condition: Fall into ground/water
+* Voice Line ID: 19
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 20
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode
+* Voice Line ID: 21
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack
+* Voice Line ID: 22
+-> Audio Link: 2 parameters
+* Condition: Perform 1st Blast 2
+* Voice Line ID: 23
+-> Audio Link: 2 parameters
+* Condition: Perform 2nd Blast 2
+* Voice Line ID: 24
+-> Audio Link: 2 parameters
+* Condition: Wait 20 seconds
+* Voice Line ID: 25
+-> Audio Link: 2 parameters
+* Condition: Perform Ultimate Blast
+* Voice Line ID: 23
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode (Opp.)
+* Voice Line ID: 34
+-> Audio Link: 2 parameters
+* Condition: Hit with 1st Blast 2 (Opp.)
+* Voice Line ID: 28
+-> Audio Link: 2 parameters
+* Condition: Hit with 2nd Blast 2 (Opp.)
+* Voice Line ID: 28
+-> Audio Link: 2 parameters
+* Condition: Perform Throw (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Perform Dragon Homing (Opp.)
+* Voice Line ID: 8
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Up Smash Attack (Opp.)
+* Voice Line ID: 20
+
+[Store Player's Character Changes]
+-> Assign Properties to Character: 1 parameter
+* Character Index: 1
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Switch with Teammate #2
+* Character ID: Majin Buu
+
+[Scene End & Battle Start]
+
+===== SCENE 10002 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Immediate
+* Scene ID: 10003
+
+[Store Player's Character Changes]
+-> Assign Properties to Character: 1 parameter
+* Character Index: 2
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Switch with Teammate #3
+* Character ID: Mr. Satan
+
+[Scene End & Battle Start]
+
+===== SCENE 10003 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Wait 40 seconds
+* Scene ID: 10004
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10041
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10031
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 27
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 29
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 30
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 31
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 32
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode
+* Voice Line ID: 33
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode (Opp.)
+* Voice Line ID: 34
+-> Audio Link: 2 parameters
+* Condition: Wait 20 seconds
+* Voice Line ID: 35
+-> Audio Link: 2 parameters
+* Condition: Perform Dash Smash
+* Voice Line ID: 36
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack
+* Voice Line ID: 37
+-> Audio Link: 2 parameters
+* Condition: Perform Guard Crush (Opp.)
+* Voice Line ID: 38
+-> Audio Link: 2 parameters
+* Condition: Fall into ground/water (Opp.)
+* Voice Line ID: 39
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 71
+-> Audio Link: 2 parameters
+* Condition: Hit with 1st Blast 2 (Opp.)
+* Voice Line ID: 71
+-> Audio Link: 2 parameters
+* Condition: Hit with 2nd Blast 2 (Opp.)
+* Voice Line ID: 71
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Down Smash Attack (Opp.)
+* Voice Line ID: 8
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Neutral Smash Attack (Opp.)
+* Voice Line ID: 8
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Battle Finish
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10004 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Immediate
+* Scene ID: 10005
+
+[Store Player's Character Changes]
+-> Assign Properties to Character: 1 parameter
+* Character Index: 3
+
+[Store Opponent's Character Changes]
+-> Add Health: 1 parameter
+* Health (%): 20
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Switch with Teammate #4
+* Character ID: Vegeta (Super) - Super Saiyajin 3
+
+[Scene End & Battle Start]
+
+===== SCENE 10005 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Trigger Fade-Out: 1 parameter]
+* Time (s): 1.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 3
+* Position (X): 26.8
+* Position (Y): 0.0
+* Position (Z): 27.5
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -26.8
+* Position (Y): 0.0
+* Position (Z): -27.5
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: GROUND
+-> Enable ANM Loop
+
+[Assign Animation: 2 parameters]
+* Character Index: 3
+* ANM Name: GROUND_TIRED
+-> Enable ANM Loop
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 3
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 12.6
+* Position (Y): -4.261
+* Position (Z): 22.785
+* Rotation (Y): 24.69
+* Rotation (X): 74.119
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 6.5
+* Position (X): 17.85
+* Position (Y): -7.12
+* Position (Z): 24.279
+* Rotation (Y): 32.889
+* Rotation (X): 74.119
+* Rotation (Z): 0.0
+
+[Music Change: 1 parameter]
+* Music: DBZ Kai OST - Let It Burn
+-> PROPERTY 119
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 46
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 26.64
+* Position (Y): -1.126
+* Position (Z): 36.975
+* Rotation (Y): 1.467
+* Rotation (X): -146.26
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 12.5
+* Position (X): 26.634
+* Position (Y): -18.345
+* Position (Z): 36.966
+* Rotation (Y): -25.295
+* Rotation (X): -146.26
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 47
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 49
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10032
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10042
+-> Scene Link: 2 parameters
+* Condition: Wait 80 seconds
+* Scene ID: 10006
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 50
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 51
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 52
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 53
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 55
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 56
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 58
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 60
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 61
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 62
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 63
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 64
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 65
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack (Opp.)
+* Voice Line ID: 8
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 68
+-> Audio Link: 2 parameters
+* Condition: Perform Dash Smash (Opp.)
+* Voice Line ID: 69
+-> Audio Link: 2 parameters
+* Condition: Perform Throw (Opp.)
+* Voice Line ID: 70
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Left Smash Attack
+* Voice Line ID: 8
+-> Audio Link: 2 parameters
+* Condition: Perform Dash Smash
+* Voice Line ID: 72
+-> Audio Link: 2 parameters
+* Condition: Perform Dragon Homing (Opp.)
+* Voice Line ID: 73
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack (Opp.)
+* Voice Line ID: 74
+-> Audio Link: 2 parameters
+* Condition: Perform Fully Charged Left Smash Attack (Opp.)
+* Voice Line ID: 75
+-> Audio Link: 2 parameters
+* Condition: Lose 3 Health Bars
+* Voice Line ID: 76
+-> Audio Link: 2 parameters
+* Condition: Fall into ground/water
+* Voice Line ID: 48
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Battle Finish
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10006 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Immediate
+* Scene ID: 10007
+
+[Store Player's Character Changes]
+-> Assign Properties to Character: 1 parameter
+* Character Index: 0
+
+[Store Opponent's Character Changes]
+-> Add Health: 1 parameter
+* Health (%): 100
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Switch with Teammate #1
+* Character ID: Son-Goku (Super)
+
+[Scene End & Battle Start]
+
+===== SCENE 10007 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Trigger Fade-Out: 1 parameter]
+* Time (s): 1.2
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 26.8
+* Position (Y): 0.0
+* Position (Z): 27.5
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -26.8
+* Position (Y): 0.0
+* Position (Z): -27.5
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: GROUND
+-> Enable ANM Loop
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: GROUND
+-> Enable ANM Loop
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -48.982
+* Position (Y): -9.604
+* Position (Z): -40.511
+* Rotation (Y): -0.879
+* Rotation (X): 50.413
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 2.0
+* Position (X): 20.562
+* Position (Y): -12.089
+* Position (Z): 22.887
+* Rotation (Y): 3.985
+* Rotation (X): 54.331
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 79
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 35.449
+* Position (Y): -28.909
+* Position (Z): 54.938
+* Rotation (Y): -31.952
+* Rotation (X): -146.917
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 5.0
+* Position (X): 28.268
+* Position (Y): -12.955
+* Position (Z): 41.445
+* Rotation (Y): -18.874
+* Rotation (X): -146.599
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 80
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10034
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10043
+-> Scene Link: 2 parameters
+* Condition: Wait 20 seconds
+* Scene ID: 10009
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 81
+-> Audio Link: 2 parameters
+* Condition: Immediate
+* Voice Line ID: 82
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode
+* Voice Line ID: 86
+-> Audio Link: 2 parameters
+* Condition: Perform Dragon Homing (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Perform 1st Blast 2
+* Voice Line ID: 88
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 89
+-> Audio Link: 2 parameters
+* Condition: Lose 2 Health Bars
+* Voice Line ID: 90
+-> Audio Link: 2 parameters
+* Condition: Hit with 1st Blast 2 (Opp.)
+* Voice Line ID: 8
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode (Opp.)
+* Voice Line ID: 34
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack
+* Voice Line ID: 72
+-> Audio Link: 2 parameters
+* Condition: Perform Throw (Opp.)
+* Voice Line ID: 73
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+-> Add Health: 1 parameter
+* Health (%): 100
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Battle Finish
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10008 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10034
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10043
+-> Audio Link: 2 parameters
+* Condition: Perform 1st Blast 2
+* Voice Line ID: 86
+-> Audio Link: 2 parameters
+* Condition: Perform Dragon Homing (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Perform Rush Attack
+* Voice Line ID: 88
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 89
+-> Audio Link: 2 parameters
+* Condition: Hit with 1st Blast 2 (Opp.)
+* Voice Line ID: 90
+-> Audio Link: 2 parameters
+* Condition: Perform 2nd Blast 2
+* Voice Line ID: 86
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Perform Dash Smash (Opp.)
+* Voice Line ID: 87
+-> Audio Link: 2 parameters
+* Condition: Go in MAX POWER Mode (Opp.)
+* Voice Line ID: 34
+-> Audio Link: 2 parameters
+* Condition: Perform Dash Smash
+* Voice Line ID: 72
+-> Audio Link: 2 parameters
+* Condition: Perform Dragon Homing (Opp.)
+* Voice Line ID: 73
+-> Audio Link: 2 parameters
+* Condition: Perform Vanishing Attack
+* Voice Line ID: 72
+-> Audio Link: 2 parameters
+* Condition: Hit with Charged Ki Blast (Opp.)
+* Voice Line ID: 73
+-> Audio Link: 2 parameters
+* Condition: Hit with 2nd Blast 2 (Opp.)
+* Voice Line ID: 90
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Battle Finish
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10009 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: -1
+
+[Store Character Positions]
+
+[Trigger Fade-Out: 1 parameter]
+* Time (s): 1.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 61.7
+* Position (Y): -40.0
+* Position (Z): 63.3
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -61.7
+* Position (Y): 0.0
+* Position (Z): -63.3
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: GROUND
+-> Enable ANM Loop
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: SKILL_005_CHARGE_D
+-> Enable ANM Loop
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 42.142
+* Position (Y): -31.702
+* Position (Z): 47.506
+* Rotation (Y): 35.09
+* Rotation (X): 59.337
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 6.0
+* Position (X): 52.406
+* Position (Y): -52.676
+* Position (Z): 57.428
+* Rotation (Y): 17.051
+* Rotation (X): 55.286
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 83
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -45.687
+* Position (Y): -8.811
+* Position (Z): -44.22
+* Rotation (Y): -4.179
+* Rotation (X): -140.951
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 5.0
+* Position (X): -52.604
+* Position (Y): -10.524
+* Position (Z): -54.184
+* Rotation (Y): -7.028
+* Rotation (X): -139.326
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 84
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 40.808
+* Position (Y): -46.673
+* Position (Z): 59.259
+* Rotation (Y): 19.818
+* Rotation (X): 86.051
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 7.5
+* Position (X): 53.073
+* Position (Y): -51.3
+* Position (Z): 56.605
+* Rotation (Y): 21.274
+* Rotation (X): 51.053
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 85
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+-> Scene Link: 2 parameters
+* Condition: Win via K.O. (Opp.)
+* Scene ID: 10043
+-> Scene Link: 2 parameters
+* Condition: Win via K.O.
+* Scene ID: 10033
+
+[Store Player's Character Changes]
+-> Replace Z-Item #7: 1 parameter
+* Z-Item #7: Go To Hell
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Trigger Ultimate Blast
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10030 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 1
+* Position (X): 26.8
+* Position (Y): 0.0
+* Position (Z): 27.5
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -26.8
+* Position (Y): 0.0
+* Position (Z): -27.5
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 1
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -40.472
+* Position (Y): -16.776
+* Position (Z): -25.536
+* Rotation (Y): -20.681
+* Rotation (X): 56.929
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: LOSE
+
+[Assign Animation: 2 parameters]
+* Character Index: 1
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 1
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 1
+* Voice Line ID: 23
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10031 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 2
+* Position (X): 26.8
+* Position (Y): 0.0
+* Position (Z): 27.5
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -26.8
+* Position (Y): 0.0
+* Position (Z): -27.5
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 2
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: LOSE
+
+[Assign Animation: 2 parameters]
+* Character Index: 2
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 2
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 2
+* Voice Line ID: 42
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 12.457
+* Position (Y): -8.945
+* Position (Z): 22.202
+* Rotation (Y): 17.916
+* Rotation (X): 68.203
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 12.0
+* Position (X): 28.821
+* Position (Y): -9.5
+* Position (Z): 13.882
+* Rotation (Y): 16.474
+* Rotation (X): -11.428
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 43
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 44
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10032 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 3
+* Position (X): 26.8
+* Position (Y): 0.0
+* Position (Z): 27.5
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -26.8
+* Position (Y): 0.0
+* Position (Z): -27.5
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 3
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 25.184
+* Position (Y): -15.404
+* Position (Z): 16.809
+* Rotation (Y): -10.677
+* Rotation (X): -0.275
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: LOSE
+
+[Assign Animation: 2 parameters]
+* Character Index: 3
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 3
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 77
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10033 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 40.8
+* Position (Y): 0.0
+* Position (Z): 41.9
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -40.8
+* Position (Y): 0.0
+* Position (Z): -41.9
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -26.769
+* Position (Y): -1.547
+* Position (Z): -16.086
+* Rotation (Y): 9.153
+* Rotation (X): -174.253
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 6.0
+* Position (X): -18.697
+* Position (Y): -10.137
+* Position (Z): -4.8
+* Rotation (Y): -22.96
+* Rotation (X): -159.411
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: LOSE
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 92
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 39.683
+* Position (Y): -13.536
+* Position (Z): 53.709
+* Rotation (Y): -20.008
+* Rotation (X): -155.926
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 5.0
+* Position (X): 43.807
+* Position (Y): -16.553
+* Position (Z): 58.227
+* Rotation (Y): -30.617
+* Rotation (X): -146.652
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: GROUND_TIRED
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 93
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 27.697
+* Position (Y): -9.587
+* Position (Z): 46.425
+* Rotation (Y): -1.992
+* Rotation (X): 123.536
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 15.0
+* Position (X): 37.281
+* Position (Y): -9.869
+* Position (Z): 28.606
+* Rotation (Y): 1.102
+* Rotation (X): 8.416
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 94
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 95
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 96
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10034 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 40.8
+* Position (Y): 0.0
+* Position (Z): 41.9
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -40.8
+* Position (Y): 0.0
+* Position (Z): -41.9
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -26.769
+* Position (Y): -1.547
+* Position (Z): -16.086
+* Rotation (Y): 9.153
+* Rotation (X): -174.253
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 6.0
+* Position (X): -18.697
+* Position (Y): -10.137
+* Position (Z): -4.8
+* Rotation (Y): -22.96
+* Rotation (X): -159.411
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: LOSE
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 92
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 39.683
+* Position (Y): -13.536
+* Position (Z): 53.709
+* Rotation (Y): -20.008
+* Rotation (X): -155.926
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 5.0
+* Position (X): 43.807
+* Position (Y): -16.553
+* Position (Z): 58.227
+* Rotation (Y): -30.617
+* Rotation (X): -146.652
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: GROUND_TIRED
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 93
+-> Wait until End of Voice Line
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 27.697
+* Position (Y): -9.587
+* Position (Z): 46.425
+* Rotation (Y): -1.992
+* Rotation (X): 123.536
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 15.0
+* Position (X): 37.281
+* Position (Y): -9.869
+* Position (Z): 28.606
+* Rotation (Y): 1.102
+* Rotation (X): 8.416
+* Rotation (Z): 0.0
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 94
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 95
+-> Wait until End of Voice Line
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 3
+* Voice Line ID: 96
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10035 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 1
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 40.8
+* Position (Y): 0.0
+* Position (Z): 41.9
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -40.8
+* Position (Y): 0.0
+* Position (Z): -41.9
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 34.064
+* Position (Y): -1.595
+* Position (Z): 28.719
+* Rotation (Y): 26.536
+* Rotation (X): 22.592
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: LOSE
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: GROUND_TIRED
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0
+* Voice Line ID: 92
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10040 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 0
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 1
+* Position (X): 61.7
+* Position (Y): 0.0
+* Position (Z): 63.3
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -61.7
+* Position (Y): 0.0
+* Position (Z): -63.3
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 1
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 31.606
+* Position (Y): -1.658
+* Position (Z): 38.472
+* Rotation (Y): 11.076
+* Rotation (X): 55.761
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 1
+* ANM Name: LOSE
+-> Wait until End of ANM
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -18.732
+* Position (Y): -15.982
+* Position (Z): -25.501
+* Rotation (Y): -11.366
+* Rotation (X): -131.203
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 4.0
+* Position (X): -57.186
+* Position (Y): -11.442
+* Position (Z): -60.501
+* Rotation (Y): -4.711
+* Rotation (X): -125.172
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0 (Opp.)
+* Voice Line ID: 45
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10041 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 0
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 2
+* Position (X): 61.7
+* Position (Y): 0.0
+* Position (Z): 63.3
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -61.7
+* Position (Y): 0.0
+* Position (Z): -63.3
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 2
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 31.606
+* Position (Y): -1.658
+* Position (Z): 38.472
+* Rotation (Y): 11.076
+* Rotation (X): 55.761
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 2
+* ANM Name: LOSE
+-> Wait until End of ANM
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -18.732
+* Position (Y): -15.982
+* Position (Z): -25.501
+* Rotation (Y): -11.366
+* Rotation (X): -131.203
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 4.0
+* Position (X): -57.186
+* Position (Y): -11.442
+* Position (Z): -60.501
+* Rotation (Y): -4.711
+* Rotation (X): -125.172
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0 (Opp.)
+* Voice Line ID: 45
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10042 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 0
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 3
+* Position (X): 61.7
+* Position (Y): 0.0
+* Position (Z): 63.3
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -61.7
+* Position (Y): 0.0
+* Position (Z): -63.3
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 3
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 31.606
+* Position (Y): -1.658
+* Position (Z): 38.472
+* Rotation (Y): 11.076
+* Rotation (X): 55.761
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 3
+* ANM Name: LOSE
+-> Wait until End of ANM
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -18.732
+* Position (Y): -15.982
+* Position (Z): -25.501
+* Rotation (Y): -11.366
+* Rotation (X): -131.203
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 4.0
+* Position (X): -57.186
+* Position (Y): -11.442
+* Position (Z): -60.501
+* Rotation (Y): -4.711
+* Rotation (X): -125.172
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0 (Opp.)
+* Voice Line ID: 45
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10043 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 0
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 61.7
+* Position (Y): 0.0
+* Position (Z): 63.3
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -61.7
+* Position (Y): 0.0
+* Position (Z): -63.3
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 31.606
+* Position (Y): -1.658
+* Position (Z): 38.472
+* Rotation (Y): 11.076
+* Rotation (X): 55.761
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: LOSE
+-> Wait until End of ANM
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -18.732
+* Position (Y): -15.982
+* Position (Z): -25.501
+* Rotation (Y): -11.366
+* Rotation (X): -131.203
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 4.0
+* Position (X): -57.186
+* Position (Y): -11.442
+* Position (Z): -60.501
+* Rotation (Y): -4.711
+* Rotation (X): -125.172
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0 (Opp.)
+* Voice Line ID: 45
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
+
+===== SCENE 10044 =====
+
+[Scene Start]
+
+[Battle End: 1 parameter]
+* Battle Outcome ID: 0
+
+[Store Character Positions]
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0
+* Position (X): 61.7
+* Position (Y): 0.0
+* Position (Z): 63.3
+* Rotation (X): 0.0
+* Rotation (Y): -135.7
+* Rotation (Z): 0.0
+
+[Assign Character Position & Rotation: 7 parameters]
+* Character Index: 0 (Opp.)
+* Position (X): -61.7
+* Position (Y): 0.0
+* Position (Z): -63.3
+* Rotation (X): 0.0
+* Rotation (Y): 44.3
+* Rotation (Z): 0.0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0
+
+[Disable Lingering Aura: 1 parameter]
+* Character Index: 0 (Opp.)
+
+[Primary Camera Point: 6 parameters]
+* Position (X): 31.606
+* Position (Y): -1.658
+* Position (Z): 38.472
+* Rotation (Y): 11.076
+* Rotation (X): 55.761
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0
+* ANM Name: LOSE
+-> Wait until End of ANM
+
+[Primary Camera Point: 6 parameters]
+* Position (X): -18.732
+* Position (Y): -15.982
+* Position (Z): -25.501
+* Rotation (Y): -11.366
+* Rotation (X): -131.203
+* Rotation (Z): 0.0
+
+[Secondary Camera Point]
+-> Additional Camera Point: 7 parameters
+* Time (s): 4.0
+* Position (X): -57.186
+* Position (Y): -11.442
+* Position (Z): -60.501
+* Rotation (Y): -4.711
+* Rotation (X): -125.172
+* Rotation (Z): 0.0
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_IN
+-> Wait until End of ANM
+
+[Assign Animation: 2 parameters]
+* Character Index: 0 (Opp.)
+* ANM Name: WIN_LOOP
+-> Enable ANM Loop
+
+[Play Character Voice Line: 2 parameters]
+* Character Index: 0 (Opp.)
+* Voice Line ID: 45
+-> Wait until End of Voice Line
+
+[Store VFX Switches]
+
+[Store Conditional Properties]
+
+[Store Player's Character Changes]
+
+[Store Opponent's Character Changes]
+
+[Post-Cutscene Event: 2 parameters]
+* Event ID: Aerial Clash
+* Character ID: N/A
+
+[Scene End & Battle Start]
